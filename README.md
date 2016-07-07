@@ -1,1 +1,2 @@
-$null 
+An intro to git tutorial
+
