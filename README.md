@@ -1,2 +1,4 @@
-An intro to git tutorial
+#An intro to git tutorial
+
+markdown is rendered
 
